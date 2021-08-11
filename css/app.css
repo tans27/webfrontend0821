@@ -1,0 +1,35 @@
+h1 {
+    color: #ff8585;
+    font-size: 40px;
+}
+p {
+    color: #71a5ff;
+    font-size: 20px;
+    text-align: justify;
+    font-weight: normal;
+    text-decoration: none;
+    text-transform: none;
+    line-height: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+div{
+    width: 600px;
+    float: left;
+    border: 1px solid #9eee97;
+    margin: 10px;
+    padding: 12px;
+
+}
+.d1{
+    background-color: antiquewhite;
+}
+
+.d2{
+    background-color: aliceblue;
+}
+
+body{
+    background-image: url("../img/bg.jpg");
+    background-size: cover;
+}
