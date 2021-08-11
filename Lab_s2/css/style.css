@@ -5,4 +5,34 @@
 html, body {
     font-size: 15px;
     line-height: 1.5;
+    width:auto;
+    text-align: center;
+}
+
+.main {
+    float: none;
+    width: 1250px;
+    margin: auto;
+    align-content: center;
+}
+
+.padding-16 .item{
+    width: 300px;
+    float: left;
+    margin: 5px;
+}
+
+
+.img{
+    width: 300px;
+}
+
+.about{
+    align-content: center;
+}
+
+.third{
+    width: 400px;
+    float: left;
+    align-content: center;
 }
