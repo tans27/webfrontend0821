@@ -8,6 +8,9 @@ html, body {
     width:auto;
     text-align: center;
 }
+.header{
+    font-size: 50px;
+}
 
 .main {
     float: none;
