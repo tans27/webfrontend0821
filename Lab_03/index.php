@@ -15,22 +15,22 @@
       <div class="rtl">
         <h3><b>Recently Played</b></h3>
         <div class="col-3">
-          <a href=""><img src="img/r_music1.jpg" alt=""></a>
+          <a href="songs.php"><img src="img/r_music1.jpg" alt=""></a>
             <h4><b>Dream Your Moments (Duet)</b></h4>
               <p>Ava Cornish & Brian Hill</p>
         </div>
         <div class="col-3">
-          <img src="img/r_music2.jpg" alt="">
+          <a href="songs.php"><img src="img/r_music2.jpg" alt=""></a>
           <h4><b>Until I Met You</b></h4>
           <p>Ava Cornish & Brian Hill</p>
         </div>
         <div class="col-3">
-          <img src="img/r_music3.jpg" alt="">
+          <a href="songs.php"><img src="img/r_music3.jpg" alt=""></a>
           <h4><b>Gimme Some Courage</b></h4>
           <p>Ava Cornish & Brian Hill</p>
         </div>
         <div class="col-3">
-          <img src="img/r_music4.jpg" alt="">
+          <a href="songs.php"><img src="img/r_music4.jpg" alt=""></a>
           <h4><b>Dark Alley</b></h4>
           <p>Ava Cornish & Brian Hill</p>
         </div>
@@ -41,22 +41,22 @@
       <div class="album">
         <h3><b>Feature Album</b></h3>
         <div class="col-3">
-          <img src="img/song1.jpg" alt="song1">
+          <a href="songs.php"><img src="img/song1.jpg" alt="song1"></a>
           <h4><b>One More Of A Stranger</b></h4>
           <p>Ava Cornish & Brian Hill</p>
         </div>
         <div class="col-3">
-          <img src="img/song2.jpg" alt="song2">
+          <a href="songs.php"><img src="img/song2.jpg" alt="song2"></a>
           <h4><b>Endless. Think</b></h4>
           <p>Ava Cornish & Brian Hill</p>
         </div>
         <div class="col-3">
-          <img src="img/song3.jpg" alt="song3">
+          <a href="songs.php"><img src="img/song3.jpg" alt="song3"></a>
           <h4><b>The Heartbeat Stop</b></h4>
           <p>Ava Cornish & Brian Hill</p>
         </div>
         <div class="col-3">
-          <img src="img/song5.jpg" alt="song4">
+          <a href="songs.php"><img src="img/song5.jpg" alt="song5"></a>
           <h4><b>Walking Promises</b></h4>
           <p>Ava Cornish & Brian Hill</p>
         </div>

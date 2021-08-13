@@ -126,3 +126,15 @@ img{
 
 /* Add a grey background color on mouse-over */
 .pagination a:hover:not(.active) {background-color: #25534e;}
+
+.lyrics{
+    width: 400px;
+    text-align: center;
+    margin: auto;
+}
+
+.song{
+    color: #ff8585;
+    text-align: center;
+    margin: auto;
+}
