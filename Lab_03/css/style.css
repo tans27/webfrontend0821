@@ -140,3 +140,10 @@ img{
     text-align: center;
     margin: auto;
 }
+
+.art{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+}
