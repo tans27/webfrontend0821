@@ -49,7 +49,7 @@ img{
 .container{
     float: none;
     margin: auto;
-    width: auto;
+    width: 1200px;
 }
 
 .sidebar{
@@ -104,10 +104,8 @@ img{
 }
 
 .trend{
-    display: flex;
     justify-content: center;
     align-items: center;
-    height: 70px;
 }
 
 .pagination a {
@@ -139,11 +137,4 @@ img{
     color: #ff8585;
     text-align: center;
     margin: auto;
-}
-
-.art{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 70px;
 }

@@ -9,11 +9,8 @@
 <?php include("layout/header.html");?>
 <section class="main">
   <div class="container">
-    <section class="art">
     <h1 class="song">Despacito</h1>
     <img src="img/banner.png" alt="banner">
-
-    </section>
     <audio controls src="audio/Despacito-J-Fla.mp3"></audio>
     <h2>Singer: J.Fla</h2>
     <p class="lyrics">Sí, sabes que ya llevo un rato mirándote <br>
@@ -52,7 +49,6 @@
       Déjame sobrepasar tus zonas de peligro<br>
       Hasta provocar tus gritos y que olvides tu apellido<br>
       Despasito</p>
-
   </div>
 </section>
 
