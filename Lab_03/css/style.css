@@ -104,8 +104,10 @@ img{
 }
 
 .trend{
+    display: flex;
     justify-content: center;
     align-items: center;
+    height: 70px;
 }
 
 .pagination a {
