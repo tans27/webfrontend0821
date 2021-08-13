@@ -49,7 +49,7 @@ img{
 .container{
     float: none;
     margin: auto;
-    width: 1200px;
+    width: auto;
 }
 
 .sidebar{
