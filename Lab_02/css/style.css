@@ -1,0 +1,98 @@
+header, section, footer, aside, nav,
+article, figure, figcaption {
+    display: block;}
+body {
+    color: #666666;
+    background-color: #f9f8f6;
+    background-image: url("../images/dark-wood.jpg");
+    background-position: center;
+    font-family: Georgia, Times, serif;
+    line-height: 1.4em;
+    margin: 0px;}
+
+.wrapper {
+    width: 940px;
+    margin: 20px auto 20px auto;
+    border: 2px solid #000000;
+    background-color: #ffffff;}
+
+header {
+    height: 160px;
+    background-image: url(../images/header.jpg);
+}
+
+
+.menu ul {
+    margin: 0;
+    display: flex;
+    background-color: #b2b0b0;
+}
+.menu ul li {
+    list-style-type: none;
+    padding: 10px;
+    color: white;
+}
+.menu ul li:hover{
+    color: black;
+}
+
+.row{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.col-4{
+    width: 300px;
+}
+
+h3{
+    color: #ff8585;
+}
+
+.item{
+    width: 630px;
+    border-right: 1px solid transparent;
+    border-color: #666666;
+    background-color: #ffffff;
+}
+
+.item .item-des{
+    margin: 20px;
+    background-color: #ffffff;
+
+}
+
+.photo{
+    border: 1px solid transparent;
+    border-color: #666666;
+    padding: 5px;
+    margin: 10px;
+    width: 250px;
+    float: left;
+
+}
+.description {
+    padding-left: 30px;
+    padding-top: 15px;
+    margin: auto;
+}
+
+.info{
+    color: #ff8585;
+    margin-left: 10px;
+}
+
+.info p{
+    padding-left: 10px;
+    border-bottom: 1px solid #a6a5a5;
+}
+
+.p2{
+    color: #666666;
+
+}
+
+footer{
+    height: 40px;
+    background-color: #b2b0b0;
+}
