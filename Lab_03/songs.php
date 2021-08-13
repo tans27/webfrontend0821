@@ -12,8 +12,9 @@
     <section class="art">
     <h1 class="song">Despacito</h1>
     <img src="img/banner.png" alt="banner">
-    <audio controls src="audio/Despacito-J-Fla.mp3"></audio>
+
     </section>
+    <audio controls src="audio/Despacito-J-Fla.mp3"></audio>
     <h2>Singer: J.Fla</h2>
     <p class="lyrics">Sí, sabes que ya llevo un rato mirándote <br>
       Tengo que bailar contigo hoy<br>
